@@ -1,0 +1,46 @@
+Journal YYYY
+
+Needs/Goals
+    ...
+
+Accomplishments
+    list items from met needs/goals w quantitive examples
+
+Standards
+    list of team standards or a link to them
+    
+Learned
+    list of imporant things learn along the way.
+    
+Quick Reference
+    list of important times that are used frequently.  probably should be in the wiki Reference for everyone
+
+Templates
+    Ticket - Work Desc, Testing Steps, Solution, Release Items, Questions / Notes
+    Alerts - Error Message, Time Period, Cause, Action
+    Monday Review - Monday Review, Splunk, PRTG, DPA
+        New Sprint?
+        Good announcements
+        Changes
+        who is on support
+        Release notes - good/bad and notes
+    Standups - What did you do yesterday, what did you to today, Sprint Assigned, Unplanned work
+	  Retro - What went well, What can be improved, Action Items
+
+Dev Meetups
+    upcoming topics of conversation
+    general list of what to discuss
+    around the room ask
+
+Current
+    long running items that will span multiple sprints or objectives not on the "roadmap" that need attention
+
+Retro
+    list of notes about what went well or what didn't for the current sprint
+
+----------------------------
+
+MM/DD/YYYY DAYOFWEEK
+    list of important items
+    special notes of side tasks, issues, or conversations
+    
