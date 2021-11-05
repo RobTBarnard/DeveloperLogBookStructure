@@ -1,0 +1,17 @@
+sprint 9999 wip
+    list of tickets that are work in progress during sprint
+
+sprint 9999 release items
+	  list of tickets going to release w/ testing steps
+
+sprint 9999 OOB
+	  list of items released out of band - not typical release cycle
+
+sprint 9999 prod testing
+	  notes on happenings during release
+
+Sprint 9999 Deployment Recap
+	  brief summary of deployment to use later
+
+Next Sprint 9999+1
+    list of items that carry over to not loose track of them
